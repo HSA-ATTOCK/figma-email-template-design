@@ -64,13 +64,7 @@ This design was built to:
 
 ##  Preview
 
-```
-
 ![Email Template Preview](./email-template.png)
-
-```
-
----
 
 ##  Future Plans
 
